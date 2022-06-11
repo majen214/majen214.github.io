@@ -18,23 +18,29 @@ footer {
 	background-color: #bdcbd9;
 }
 
-/* ----- =logo ----- */
 
 h1 {
 	font-size: 40px;
+	font-family: sans-serif;
 	text-align: center;
 	padding-top: 50px;
 	margin: 0 0 0 20px;
     color: #8f99a4;
 }
 
-
-/* ----- =footer ----- */
+h2 {
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 40px;
+	margin: 0 0 0 20px;
+    color: #8f99a4;
+}
 
 footer {
 	text-align: center;	
 }
-footer #copyright {
+footer #contact {
 	color: #fff;
 	padding-top: 20px;
 }
