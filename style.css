@@ -28,12 +28,12 @@ footer {
 	background-color: #bdcbd9;
 }
 
-p { 
+.p { 
 	pading: 25px;
 	font-family: sans-serif;
 }
 
-h1 {
+.h1 {
 	font-size: 40px;
 	font-family: sans-serif;
 	text-align: center;
