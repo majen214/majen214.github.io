@@ -8,13 +8,13 @@ header {
 	background-color: #fff;
 }
 
-.img {
+img {
 	padding: 25px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.container {
+container {
 	padding: 25px;
 	position: absolute;
 }
@@ -29,7 +29,7 @@ footer {
 	background-color: #bdcbd9;
 }
 
-.p { 
+p { 
 	pading: 25px;
 	font-family: sans-serif;
 }
@@ -43,7 +43,7 @@ h1 {
     color: #8f99a4;
 }
 
-.h2 {
+h2 {
 	font-size: 30px;
 	font-family: sans-serif;
 	text-align: center;
