@@ -14,7 +14,13 @@ img {
 	margin-right: auto;
 }
 
+imageContainer {
+	padding: 25px; 
+}
 
+textContainer {
+	padding: 25px;	
+}
 
 main {
 	padding-top: 60px;
