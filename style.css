@@ -12,6 +12,8 @@ img {
 	padding: 25px;
 	margin-left: auto;
 	margin-right: auto;
+	width: 50%;
+	display: block;
 }
 
 imageContainer {
