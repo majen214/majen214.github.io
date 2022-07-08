@@ -60,6 +60,26 @@ h2 {
 footer {
 	text-align: center;	
 }
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
 footer #contact {
 	color: #fff;
 	padding-top: 20px;
